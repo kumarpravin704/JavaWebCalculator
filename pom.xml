@@ -30,7 +30,7 @@
    <configuration>
   	 <url>http://10.128.0.12:8080/manager/text</url>
   	 <server>TomcatServer</server>
-  	 <path>/webappcal</path>
+  	 <path>/production</path>
    </configuration>
    
 </plugin>
